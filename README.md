@@ -1,21 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Jesus Contreras
 
-I'm Jesus Contreras, a student at Brigham Young University-Idaho interested in Computer Science. Welcome to my GitHub profile!
+I'm a student at Brigham Young University-Idaho interested in Computer Science and Software Development. Welcome to my GitHub profile!
+---
 
-- I'm currently learning backend frameworks such as Next.js, Node and Express
-- My goals are to ...
-- Ask me about ...
-<!--
-**JesusContreras26/JesusContreras26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###📈 **Currently Exploring**
+---
+Node.js | MongoDB | Express | Next | Swagger | MySQL 
 
-Here are some ideas to get you started:
+###🛠️ **Tech Stack & Tools**
+---
+**Languages:** JavaScript | C# | HTML | CSS | Python | SQL 
+**Specialties:** Object-Oriented Programming, Software Design, Algorithms & Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🚀 **What Motivates Me**
+---
+- I see programming as an ever-evolving universe—being part of its constant innovation is both thrilling and rewarding.
+- I'm driven by the challenge of solving problems and creating automated solutions that make life simpler and smarter.
+- I thrive on discovering new technologies, diving deep into tools and trends that push the boundaries of what's possible.
+
+###🔍 **I’m looking for opportunities in:**
+---
+Backend Development | Web APIs | Data Analysis 
+
+###🤝 **Let’s Connect!**
+- [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-contreras-72178123a/)
+
