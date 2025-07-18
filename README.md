@@ -12,8 +12,7 @@ Node.js | MongoDB | Express | Next | Swagger | MySQL
 **Languages:** JavaScript | C# | HTML | CSS | Python | SQL <br>
 **Specialties:** Object-Oriented Programming, Software Design, Algorithms & Data Structures
 
-### 🚀 **What Motivates Me**
----
+### 🚀 **What Motivates Me** ---
 - I see programming as an ever-evolving universe—being part of its constant innovation is both thrilling and rewarding.
 - I'm driven by the challenge of solving problems and creating automated solutions that make life simpler and smarter.
 - I thrive on discovering new technologies, diving deep into tools and trends that push the boundaries of what's possible.
