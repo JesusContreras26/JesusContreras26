@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Jesus Contreras, a student at Brigham Young University-Idaho interested in Computer Science. Welcome to my GitHub profile!
+
+- I'm currently learning backend frameworks such as Next.js, Node and Express
+- My goals are to ...
+- Ask me about ...
 <!--
 **JesusContreras26/JesusContreras26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
