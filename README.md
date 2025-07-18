@@ -9,7 +9,7 @@ Node.js | MongoDB | Express | Next | Swagger | MySQL
 
 ### 🛠️ **Tech Stack & Tools**
 ---
-**Languages:** JavaScript | C# | HTML | CSS | Python | SQL 
+**Languages:** JavaScript | C# | HTML | CSS | Python | SQL <br>
 **Specialties:** Object-Oriented Programming, Software Design, Algorithms & Data Structures
 
 ### 🚀 **What Motivates Me**
